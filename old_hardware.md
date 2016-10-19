@@ -16,13 +16,14 @@ Also known as the Jasager
 | Power | Barrel Jack 12V 1A |
 | Serial |yes |
 
-Sold as Fonera 2100 with stock firmware
+Sold with stock firmware as Fonera 2100
 https://wikidevi.com/wiki/Fonera_FON2100
 
 ## Wifi Pineapple Mark II
 Also known as the Jasager Version 2
 
 ### Specifications
+Probably also a Fonera 2100
 
 ## Wifi Pineapple Mark III
 
@@ -39,7 +40,7 @@ Also known as the Jasager Version 2
 | Power | Barrel Jack 12V 1A |
 | Serial | yes |
 
-Sold as Alfa AP51 with stock firmware
+Sold with stock firmware as Alfa AP51
 
 https://wikidevi.com/wiki/ALFA_Network_AP51
 
@@ -64,7 +65,7 @@ https://wikidevi.com/wiki/ALFA_Network_AP51
 | | POE 12V 1A |
 
 
-Also sold as Alfa AP121U with stock firmware
+Also sold with stock firmware as Alfa AP121U
 
 https://wikidevi.com/wiki/ALFA_Network_Hornet-UB
 
